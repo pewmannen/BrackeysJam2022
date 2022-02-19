@@ -1,10 +1,16 @@
 Binaries
+Plugins
+Build
 DerivedDataCache
 Intermediate
 Saved
+.log
+.idea
 .vscode
 .vs
+*_BuiltData.uasset
 *.VC.db
+*.VC.opendb
 *.opensdf
 *.opendb
 *.sdf
